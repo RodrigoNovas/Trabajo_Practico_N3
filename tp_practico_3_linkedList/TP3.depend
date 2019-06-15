@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1559855978 c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\linkedlist.h
+
+1559855978 c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\employee.h
+
+1559855978 c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\parser.h
+
+1559855978 c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\input.h
+
+1559855978 c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\controller.h
+
+1559855978 source:c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1559855978 source:c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1559855978 source:c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+
+1559855978 source:c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"input.h"
+
+1559855978 source:c:\users\rnovas002\downloads\tp3-master\tp_practico_3_linkedlist\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+	"controller.h"
+
